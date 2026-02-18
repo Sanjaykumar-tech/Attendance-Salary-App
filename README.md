@@ -26,3 +26,14 @@ Professional Attendance & Salary Manager System with role-based access.
 - JavaScript (ES6+)
 - Local Storage
 - Font Awesome Icons
+
+## Installation 🛠️
+1. Clone the repository
+2. Open `index.html` in browser
+3. Login with demo credentials
+
+## Screenshots 📸
+[Add screenshots here]
+
+## License 📄
+MIT License
